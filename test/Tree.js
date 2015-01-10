@@ -1,9 +1,12 @@
 'use strict';
 
+/**
+ * Test file used in combination with Karma, PhantomJS and Jasmine.
+ * @author http://www.github.com/Pouja
+ */
 describe('Service: Tree', function() {
-
     // load the service's module
-    beforeEach(module('uasApp'));
+    beforeEach(module('simpleTreeApp'));
 
     // instantiate service
     var Tree;

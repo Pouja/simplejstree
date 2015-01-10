@@ -2,6 +2,7 @@
 
 /**
  * A simple tree datastructures which uses variable parent and self identifiers.
+ * @author http://www.github.com/Pouja
  */
 angular.module('simpleTreeApp')
     .factory('Tree',
